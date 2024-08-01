@@ -15,7 +15,7 @@ A command-line interface tool to extract text content from a webpage using a CSS
 
 - `<url>`
 - `<selector>`
-- example : extract-content -i https://example.com p "hello"
+- example : extract-content https://example.com p "hello"
 
 # Link
 
